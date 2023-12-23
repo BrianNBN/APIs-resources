@@ -62,6 +62,7 @@
   -  ### Local
   -  [cooperative](https://developer.co-opbank.co.ke/devportal/apis)
   -  [Equity - JengaAPI](https://www.jengaapi.io/)
+  -  [KCB - BUNIAPI](https://buni.kcbgroup.com/)
  
     
   -  ### Global
